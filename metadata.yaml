@@ -1,0 +1,26 @@
+_repo: The-Economic-Functions-of-Vice_31768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McElroy, John
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '1015'
+    url: http://www.gutenberg.org/2009/agents/1015
+description: ''
+gutenberg_issued: '2010-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+title: The Economic Functions of Vice
+url: http://www.gutenberg.org/ebooks/31768
